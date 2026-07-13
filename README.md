@@ -1,12 +1,12 @@
-# Hi, I'm Ilyas Kenbay
+# Hi 👋 I'm Ilyas Kenbay
 
-**Go Backend Developer** 
+Backend Developer
 
-I build scalable backend systems, distributed applications and microservice architectures using Go.
+I enjoy solving backend engineering challenges — from designing distributed systems and event-driven architectures to optimizing performance, caching strategies and real-time communication.
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 **Languages**
 
@@ -14,11 +14,15 @@ Go • TypeScript • JavaScript
 
 **Backend**
 
-Go • REST API • WebSocket • gRPC • NATS • OIDC • JWT
+Go • REST API • WebSocket • gRPC • NATS • OpenID Connect • JWT • Redis
 
 **Databases**
 
-PostgreSQL • MongoDB • Redis
+PostgreSQL • MongoDB
+
+**Frontend**
+
+React • Vite
 
 **DevOps**
 
@@ -33,21 +37,12 @@ Docker • Railway • AWS
 - 🎮 Dueljack
 - 📄 Pastebin
 
-➡️ See pinned repositories below.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+📌 Check out my pinned repositories below for detailed documentation and source code.
 
 ---
 
 ## 📫 Contact
 
-📧 kenbay.ilyas@gmail.com
+📧 **kenbay.ilyas@gmail.com**
 
 💼 LinkedIn
